@@ -1,0 +1,12 @@
+@media screen and (max-width:599px) {
+    body{
+        background-color: mediumpurple;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    body{
+        background-color: mediumpurple ;
+    }
+    
+}
